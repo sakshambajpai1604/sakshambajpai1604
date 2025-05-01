@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saksham Bajpai
 - 👀 I’m interested in Backend Development
-- 🌱 I’m currently learning Spring Boot and Microservises
+- 🌱 I’m currently learning Spring Boot and Microservices
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me on LinkedIn https://www.linkedin.com/in/sakshambajpai/
 - 😄 Pronouns: He/Him
