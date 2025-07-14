@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me on LinkedIn https://www.linkedin.com/in/sakshambajpai/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Codepreneur: I build like a coder and think like an entrepreneur
+- ⚡ Fun fact: I'm an Alien with sweet dopamine of solving bugs
 
 <!---
 sakshambajpai1604/sakshambajpai1604 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
